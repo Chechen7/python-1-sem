@@ -1,0 +1,38 @@
+commit ff9747cef5f6ea1e27efbcef907342092ee6e66f
+Author: Keqing <elizarova.es@students.dvfu.ru>
+Date:   Sun Sep 26 01:58:29 2021 +1000
+
+    commit
+
+ .gitignore | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 9b7938f563e3c2d91f7f566f93cbaae1a203e0b2
+Author: Keqing <elizarova.es@students.dvfu.ru>
+Date:   Sun Sep 26 01:49:28 2021 +1000
+
+    .gitignore
+
+ .gitignore    | 0
+ log/main.html | 0
+ log/some.tmp  | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 4096d95fcaa0e64d1591d2cb628670c428cc114d
+Author: Keqing <elizarova.es@students.dvfu.ru>
+Date:   Mon Sep 20 18:43:35 2021 +1000
+
+    my second commit
+
+ my_first_file.txt  | 1 +
+ my_second_file.txt | 0
+ 2 files changed, 1 insertion(+)
+
+commit df579500dfe69225e0e515bd81a5bee234c7ccdd
+Author: Keqing <elizarova.es@students.dvfu.ru>
+Date:   Mon Sep 20 18:39:27 2021 +1000
+
+    my first commit
+
+ my_first_file.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
